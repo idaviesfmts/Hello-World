@@ -5,4 +5,7 @@ void main()
 {
     //now does something
     printf("");
+    //does nothing
+    
+    // Happy happy happy
 }
