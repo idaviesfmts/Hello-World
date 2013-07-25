@@ -3,5 +3,6 @@
 
 void main()
 {
-    //does nothing
+    //now does something
+    printf("");
 }
